@@ -7,3 +7,10 @@
     -o-background-size: cover;
     background-size: cover;
 }
+
+.centered {
+    color: #bfbfbf;
+    position: fixed;
+    top: 92%;
+    left: 47%;
+}
