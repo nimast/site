@@ -14,3 +14,11 @@
     top: 92%;
     left: 47%;
 }
+
+.centered:hover {
+    color: #000000;
+}
+
+.centered:visited {
+    color: #bfbfbf;
+}
